@@ -1,4 +1,4 @@
-![image](https://github.com/apoorvumang/llm-cogs/assets/1957903/09ccbfcb-eb83-4915-9e96-09b5e9858c1f)# Towards Optimizing the Costs of LLM Usage
+# Towards Optimizing the Costs of LLM Usage
 
 ## BERTScore prediction dataset
 
@@ -19,7 +19,7 @@ Archaeological evidence shows settlement in the area since 2000 BC.
 
 ## Graphs
 
-<img width="523" alt="image" src="https://github.com/apoorvumang/llm-cogs/assets/1957903/dd674258-e62e-4690-a728-ea6820a0f6d3">
+<img width="523" alt="image" src="graph1.png">
 
-<img width="891" alt="image" src="https://github.com/apoorvumang/llm-cogs/assets/1957903/d3784f49-e099-4af7-946b-a35467061d33">
+<img width="891" alt="image" src="graph2.png">
 
